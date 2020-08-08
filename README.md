@@ -35,7 +35,7 @@
 
 # Part 2:
 
-    Unlike, CodePen, export default `%{VariableName}` needs to be placed in order to import that file in a different file. 
+    Unlike, CodePen, export default `%{VariableName}` needs to be placed in order to import that file in a different file. To use the "react-router-dom" library npm install react-router-dom. 
 
     import {
 	    BrowserRouter as Route,
